@@ -1,0 +1,9 @@
+Resultados:
+Ano: 2023, Disciplina 1, Média: 78,00, Mediana: 80,00, Desvio Padrão: 10,72
+Ano: 2023, Disciplina 2, Média: 76,33, Mediana: 79,00, Desvio Padrão: 8,58
+Ano: 2023, Disciplina 3, Média: 77,00, Mediana: 78,50, Desvio Padrão: 13,22
+Ano: 2023, Disciplina 4, Média: 81,00, Mediana: 83,00, Desvio Padrão: 10,17
+Ano: 2024, Disciplina 1, Média: 73,75, Mediana: 72,50, Desvio Padrão: 14,55
+Ano: 2024, Disciplina 2, Média: 75,25, Mediana: 74,50, Desvio Padrão: 11,78
+Ano: 2024, Disciplina 3, Média: 74,75, Mediana: 73,50, Desvio Padrão: 12,83
+Ano: 2024, Disciplina 4, Média: 78,00, Mediana: 77,00, Desvio Padrão: 12,25
